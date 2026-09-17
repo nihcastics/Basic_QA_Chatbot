@@ -1,0 +1,6 @@
+[2026-09-17 22:21:59,765] 17 root - INFO - data loading started...
+[2026-09-17 22:21:59,765] 86 llama_index.core.readers.file.base - WARNING - `llama-index-readers-file` package not found, some file readers will not be available if not provided by the `file_extractor` parameter.
+[2026-09-17 22:21:59,767] 20 root - INFO - data loading completed...
+[2026-09-17 22:22:00,085] 21 root - INFO - 
+[2026-09-17 22:22:00,241] 28 root - INFO - 
+[2026-09-17 22:22:05,621] 32 root - INFO - 
